@@ -12,6 +12,7 @@ public class Xcode2 {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a number: ");
         int number = input.nextInt();
+        input.close();
         multipleNumber(number);
     }
 
