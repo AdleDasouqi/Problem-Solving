@@ -13,7 +13,6 @@ public class Xcode10 {
         char letter = input.next().charAt(0);
         input.close();
         alphabet(letter);
-
     }
 
     public static void alphabet(char letter){
