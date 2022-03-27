@@ -20,5 +20,6 @@ public class Xcode10 {
         ? letter + " is alphabet" 
         : letter + " is not an alphabet";
         System.out.println(result);
+        System.out.println();
     }
 }
