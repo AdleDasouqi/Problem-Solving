@@ -20,7 +20,9 @@ public class Xcode9 {
     }
 
     public static void numbers(int number){
-        String result = (number > 0) ? " is a positive" : (number < 0) ? " is a negative" : (number == 0) ? " is neither positive nor negative" : " number is not found";
-        System.out.println(number + result);
+        String result = (number > 0) ? number + " is a positive" : (number < 0) ? number + " is a negative" : (number == 0) 
+        ? number + " is neither positive nor negative" 
+        : number + " number is not found";
+        System.out.println(result);
     }
 }
