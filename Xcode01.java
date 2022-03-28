@@ -9,7 +9,7 @@ import java.util.Scanner;
  * If n is even and greater than , print Not Weird
 */
 
-public class Xcode1 {
+public class Xcode01 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int number = input.nextInt();
