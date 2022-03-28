@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Java Program to Check Whether a Number is Positive or Negative
 */
 
-public class Xcode9 {
+public class Xcode09 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         try{

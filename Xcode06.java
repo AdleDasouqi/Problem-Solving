@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Java Program to Check Whether a Number is Even or Odd
 */
 
-public class Xcode6{
+public class Xcode06{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         try{

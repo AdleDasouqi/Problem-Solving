@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Java Program to Find the Largest Among Three Numbers
 */
 
-public class Xcode8 {
+public class Xcode08 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter three numbers: ");

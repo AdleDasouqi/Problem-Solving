@@ -6,7 +6,7 @@ import java.util.Scanner;
  * You need a program to convert days to seconds.
 */
 
-public class Xcode4 {
+public class Xcode04 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the days: ");

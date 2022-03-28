@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Java Program to Swap Two Numbers
 */
 
-public class Xcode5 {
+public class Xcode05 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter First Number: ");

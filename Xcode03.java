@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Java Program to Find ASCII Value of a character
 */
 
-public class Xcode3{
+public class Xcode03{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Please Enter Your Character: ");

@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Java Program to Check Whether an Alphabet is Vowel or Consonant
 */
 
-public class Xcode7 {
+public class Xcode07 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a character: ");
