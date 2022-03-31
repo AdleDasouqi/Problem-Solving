@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Xcode12 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter a factorial: ");
+        System.out.print("Enter the factorial: ");
         int varNumber = input.nextInt();
         input.close();
         System.out.println("Factorial of " + varNumber + " = " + factorial(varNumber));
